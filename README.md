@@ -17,3 +17,7 @@ Used techs:
   4. Fetch http request.
   5. React props.
   6. React link.
+
+In order to ru nthe application:
+  1. Install the node modules: mpn i.
+  2. Start the server: npm start.
